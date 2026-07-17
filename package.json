@@ -4,8 +4,8 @@
   "description": "Birthday wishes application",
   "private": true,
   "engines": {
-    "node": "18.x",
-    "npm": "9.x"
+    "node": "24.x",
+    "npm": "12.x"
   },
   "dependencies": {
     "react": "^18.2.0",
